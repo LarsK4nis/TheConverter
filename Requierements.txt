@@ -1,0 +1,4 @@
+pytube
+moviepy
+eyed3
+requests
