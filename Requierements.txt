@@ -1,4 +1,1 @@
-pytube
-moviepy
-eyed3
-requests
+yt-dlp
